@@ -5,48 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: init new bp">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/result.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/browser/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/checker.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/result.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/shared/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/sus-code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/koishi-env/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/webui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.npmignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/page.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/smile.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/browser/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/node/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/shared/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/youare.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/external/youareanidiot/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.temp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external/dispose-root" beforeDir="false" afterPath="$PROJECT_DIR$/external/dispose-root" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external/expose-ctx" beforeDir="false" afterPath="$PROJECT_DIR$/external/expose-ctx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.temp.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.temp.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +161,7 @@
       <workItem from="1706521052577" duration="2111000" />
       <workItem from="1706524050726" duration="3838000" />
       <workItem from="1706595100180" duration="876000" />
-      <workItem from="1706611280235" duration="2412000" />
+      <workItem from="1706611280235" duration="2747000" />
     </task>
     <task id="LOCAL-00001" summary="chore: init dispose-root&#10;chore: update boilerplate&#10;chore: remove koishi sources">
       <option name="closed" value="true" />
@@ -336,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706612928256</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="chore: init new bp">
+      <option name="closed" value="true" />
+      <created>1706613832207</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1706613832207</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

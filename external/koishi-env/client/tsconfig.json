@@ -3,13 +3,11 @@
     "rootDir": ".",
     "module": "esnext",
     "moduleResolution": "node",
-    "jsx": "preserve",
     "types": [
-      "@koishijs/client/global"
-    ]
+      // 这一行的作用是导入相关全局类型
+      // 以便于在编辑器中显示更好的代码提示
+      "@koishijs/client/global",
+    ],
   },
-  "include": [
-    ".",
-    "../shared"
-  ]
+  "include": ["."],
 }
