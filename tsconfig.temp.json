@@ -1,0 +1,86 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./external/koishi/plugins/mock"
+    },
+    {
+      "path": "./external/webui/packages/market"
+    },
+    {
+      "path": "./external/koishi/plugins/database/sqlite"
+    },
+    {
+      "path": "./external/koishi/plugins/database/postgres"
+    },
+    {
+      "path": "./external/koishi/plugins/database/mysql"
+    },
+    {
+      "path": "./external/koishi/plugins/database/mongo"
+    },
+    {
+      "path": "./external/koishi/plugins/database/memory"
+    },
+    {
+      "path": "./external/koishi/plugins/common/inspect"
+    },
+    {
+      "path": "./external/koishi/plugins/common/help"
+    },
+    {
+      "path": "./external/koishi/plugins/common/echo"
+    },
+    {
+      "path": "./external/koishi/plugins/common/callme"
+    },
+    {
+      "path": "./external/koishi/plugins/common/broadcast"
+    },
+    {
+      "path": "./external/koishi/plugins/common/bind"
+    },
+    {
+      "path": "./external/webui/plugins/sandbox"
+    },
+    {
+      "path": "./external/webui/plugins/oobe"
+    },
+    {
+      "path": "./external/webui/plugins/notifier"
+    },
+    {
+      "path": "./external/webui/plugins/market"
+    },
+    {
+      "path": "./external/webui/plugins/logger"
+    },
+    {
+      "path": "./external/webui/plugins/locales"
+    },
+    {
+      "path": "./external/webui/plugins/insight"
+    },
+    {
+      "path": "./external/webui/plugins/explorer"
+    },
+    {
+      "path": "./external/webui/plugins/commands"
+    },
+    {
+      "path": "./external/webui/plugins/auth"
+    },
+    {
+      "path": "./external/webui/plugins/admin"
+    },
+    {
+      "path": "./external/webui/plugins/actions"
+    },
+    {
+      "path": "./external/expose-ctx"
+    },
+    {
+      "path": "./external/dispose-root"
+    }
+  ]
+}

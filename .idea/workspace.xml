@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: init new bp">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/result.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/browser/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/checker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/result.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/node/utils.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/src/shared/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/sus-code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/koishi-env/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/webui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/page.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/smile.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/client/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/browser/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/node/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/shared/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/src/youare.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/youareanidiot/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.temp.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/dispose-root" beforeDir="false" afterPath="$PROJECT_DIR$/external/dispose-root" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/expose-ctx" beforeDir="false" afterPath="$PROJECT_DIR$/external/expose-ctx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="a592ff94843f852129d263e53481c5b84eb2e6e7" />
+    <option name="OPTIONS">
+      <set>
+        <option value="INTERACTIVE" />
+      </set>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/external/random-source-selector" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="LLMProjectSettings">
+    <option name="turned_on" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2al21uJ1GvBV6Phb6sQM94y6KYj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Node.js.thmr.mjs.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "javascript.nodejs.core.library.configured.version": "21.6.1",
+    "javascript.nodejs.core.library.typings.version": "20.11.9",
+    "last_opened_file_path": "/sdcard/Projects/WebstormProjects/koishi-bp/external",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "yarn",
+    "npm.dev.executor": "Debug",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "/sdcard/Projects/WebstormProjects/koishi-bp/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/external" />
+      <recent name="$PROJECT_DIR$/external/expose-ctx/src" />
+      <recent name="$PROJECT_DIR$/external/expose-ctx/client" />
+      <recent name="$PROJECT_DIR$/external/youareanidiot/src" />
+      <recent name="$PROJECT_DIR$/external/youareanidiot/src/node" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tmp" />
+      <recent name="$PROJECT_DIR$/external/expose-ctx/client/locales" />
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$/external/youareanidiot/src" />
+      <recent name="$PROJECT_DIR$/external" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="thmr.mjs" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/.hack/thmr.mjs" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <arguments value="--log-level=5" />
+      <node-interpreter value="project" />
+      <envs>
+        <env name="NODE_ENV" value="development" />
+        <env name="NODE_ENVIROMENT" value="development" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.thmr.mjs" />
+      <item itemvalue="npm.dev" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-fd6de256fdba-JavaScript-WS-241.8102.134" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="" />
+      <created>1700228066054</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700228066054</updated>
+      <workItem from="1704878633986" duration="20189000" />
+      <workItem from="1704951772848" duration="707000" />
+      <workItem from="1705399728618" duration="15132000" />
+      <workItem from="1705541612907" duration="21000" />
+      <workItem from="1705543687555" duration="4392000" />
+      <workItem from="1705548096352" duration="226000" />
+      <workItem from="1705548327334" duration="3181000" />
+      <workItem from="1705551852955" duration="2102000" />
+      <workItem from="1705553960888" duration="19002000" />
+      <workItem from="1705573110303" duration="331000" />
+      <workItem from="1705573449018" duration="2499000" />
+      <workItem from="1705642362933" duration="88000" />
+      <workItem from="1705648094366" duration="18658000" />
+      <workItem from="1705677808976" duration="2517000" />
+      <workItem from="1705680340181" duration="5739000" />
+      <workItem from="1705828578368" duration="331000" />
+      <workItem from="1706442691838" duration="20530000" />
+      <workItem from="1706521052577" duration="2111000" />
+      <workItem from="1706524050726" duration="3838000" />
+      <workItem from="1706595100180" duration="876000" />
+      <workItem from="1706611280235" duration="2412000" />
+    </task>
+    <task id="LOCAL-00001" summary="chore: init dispose-root&#10;chore: update boilerplate&#10;chore: remove koishi sources">
+      <option name="closed" value="true" />
+      <created>1705414485328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414485328</updated>
+    </task>
+    <task id="LOCAL-00002" summary="chore: link submodules">
+      <option name="closed" value="true" />
+      <created>1705414571782</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414571782</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: init dispose-root">
+      <option name="closed" value="true" />
+      <created>1705414766791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705414766791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(dispose-root): frontend notice&#10;feat(dispose-root): dispose all effects&#10;chore: migrate to yarn v4">
+      <option name="closed" value="true" />
+      <created>1705573752714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705573752714</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1705594410498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705594410498</updated>
+    </task>
+    <task id="LOCAL-00006" summary="chore: init expose-ctx&#10;chore: update">
+      <option name="closed" value="true" />
+      <created>1706460639119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706460639120</updated>
+    </task>
+    <task id="LOCAL-00007" summary="chore: update submodules">
+      <option name="closed" value="true" />
+      <created>1706460879497</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1706460879497</updated>
+    </task>
+    <task id="LOCAL-00008" summary="chore: update submodules">
+      <option name="closed" value="true" />
+      <created>1706461081404</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461081404</updated>
+    </task>
+    <task id="LOCAL-00009" summary="chore: update submodules">
+      <option name="closed" value="true" />
+      <created>1706461121161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461121161</updated>
+    </task>
+    <task id="LOCAL-00010" summary="chore: update submodules">
+      <option name="closed" value="true" />
+      <created>1706461179025</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461179025</updated>
+    </task>
+    <task id="LOCAL-00011" summary="chore: init expose-ctx&#10;chore: update">
+      <option name="closed" value="true" />
+      <created>1706461427093</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461427093</updated>
+    </task>
+    <task id="LOCAL-00012" summary="chore: init expose-ctx&#10;chore: update">
+      <option name="closed" value="true" />
+      <created>1706461527021</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461527021</updated>
+    </task>
+    <task id="LOCAL-00013" summary="chore: update">
+      <option name="closed" value="true" />
+      <created>1706461887347</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1706461887347</updated>
+    </task>
+    <task id="LOCAL-00014" summary="chore: fix `window` is undefined">
+      <option name="closed" value="true" />
+      <created>1706462648095</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706462648095</updated>
+    </task>
+    <task id="LOCAL-00015" summary="chore: fix `window` is undefined">
+      <option name="closed" value="true" />
+      <created>1706462652896</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1706462652896</updated>
+    </task>
+    <task id="LOCAL-00016" summary="chore: bump versions">
+      <option name="closed" value="true" />
+      <created>1706521677233</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1706521677233</updated>
+    </task>
+    <task id="LOCAL-00017" summary="chore: init">
+      <option name="closed" value="true" />
+      <created>1706612928256</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1706612928256</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="60" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="66" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="65" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: init dispose-root&#10;chore: update boilerplate" />
+    <MESSAGE value="chore: init dispose-root&#10;chore: update boilerplate&#10;chore: remove koishi sources" />
+    <MESSAGE value="chore: link submodules" />
+    <MESSAGE value="chore: init dispose-root&#10;chore: basic functions" />
+    <MESSAGE value="chore: init dispose-root" />
+    <MESSAGE value="feat(dispose-root): frontend notice&#10;feat(dispose-root): dispose all effects&#10;chore: migrate to yarn v4" />
+    <MESSAGE value="fix: `onclick` isn't `onClick`, btw also declared the typing too" />
+    <MESSAGE value="update" />
+    <MESSAGE value="chore: move koishi-env" />
+    <MESSAGE value="chore: update submodules" />
+    <MESSAGE value="chore: init expose-ctx&#10;chore: update" />
+    <MESSAGE value="chore: update" />
+    <MESSAGE value="chore: fix `window` is undefined" />
+    <MESSAGE value="chore: bump versions" />
+    <MESSAGE value="chore: init new bp" />
+    <MESSAGE value="chore: init new bp" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: init new bp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="javascript">
+          <condition expression="name == 'splice'" language="TypeScript" />
+          <url>file://$PROJECT_DIR$/node_modules/cordis/src/context.ts</url>
+          <line>122</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file:///storage/emulated/0/Projects/WebstormProjects/koishi-bp/external/youareanidiot/src/shared/index.ts</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/test/util.ts</url>
+          <line>15</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/external/test/src/index.ts</url>
+          <line>28</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@satorijs/adapter-discord/src/types/internal.ts</url>
+          <line>12</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@satorijs/adapter-discord/src/message.ts</url>
+          <line>149</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@satorijs/adapter-discord/src/message.ts</url>
+          <line>51</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@satorijs/adapter-discord/src/message.ts</url>
+          <line>52</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

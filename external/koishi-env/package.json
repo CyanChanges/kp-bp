@@ -1,0 +1,44 @@
+{
+  "name": "koishi-plugin-koishi-env",
+  "description": "Check is this plugin running on Koishi Online",
+  "version": "0.0.1",
+  "main": "lib/node/index.js",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "node": [
+        "./lib/node/index.js"
+      ],
+      "browser": [
+        "./lib/browser/index.mjs"
+      ],
+      "types": {
+        "browser": "./lib/browser/index.d.ts",
+        "node": "./lib/node/index.d.ts"
+      }
+    },
+    "./shared": {
+      "require": "./lib/shared/index.js",
+      "types": "./lib/shared/index.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "dist",
+    "src"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "devDependencies": {
+    "@koishijs/client": "^5.26.6"
+  },
+  "peerDependencies": {
+    "@koishijs/plugin-console": "^5.26.6",
+    "koishi": "^4.16.4"
+  }
+}

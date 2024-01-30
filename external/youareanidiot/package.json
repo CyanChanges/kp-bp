@@ -1,0 +1,57 @@
+{
+  "name": "koishi-plugin-youareanidiot",
+  "description": "https://youareanidiot.cc/",
+  "version": "0.0.1",
+  "main": "lib/node/index.js",
+  "types": "lib/index.d.ts",
+  "exports": {
+    ".": {
+      "node": [
+        "./lib/node/index.js"
+      ],
+      "browser": [
+        "./lib/browser/index.mjs"
+      ],
+      "types": {
+        "browser": "./lib/browser/index.d.ts",
+        "node": "./lib/node/index.d.ts"
+      }
+    },
+    "./shared": {
+      "require": "./lib/shared/index.js",
+      "import": "./lib/shared/index.mjs",
+      "types": "./lib/shared/index.d.ts"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "@koishijs/plugin-console": "^5.26.6",
+    "koishi": "^4.16.4"
+  },
+  "peerDependenciesMeta": {
+    "@koishijs/plugin-console": {
+      "optional": true
+    }
+  },
+  "dependencies": {
+    "@koishijs/console": "^5.26.6",
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.3.1",
+    "audio-sink": "^1.1.6",
+    "speaker": "^0.5.4"
+  },
+  "devDependencies": {
+    "@koishijs/client": "^5.26.6",
+    "@types/audio-play": "^2"
+  }
+}
