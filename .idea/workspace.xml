@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: init new bp">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.temp.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.temp.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: init new bp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +34,7 @@
         <entry key="$PROJECT_DIR$/external/random-source-selector" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/external/webui" />
     <option name="RESET_MODE" value="SOFT" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -65,7 +59,7 @@
     "Node.js.thmr.mjs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "90bf8792",
     "javascript.nodejs.core.library.configured.version": "21.6.1",
     "javascript.nodejs.core.library.typings.version": "20.11.9",
     "last_opened_file_path": "/sdcard/Projects/WebstormProjects/koishi-bp/external",
@@ -162,6 +156,7 @@
       <workItem from="1706524050726" duration="3838000" />
       <workItem from="1706595100180" duration="876000" />
       <workItem from="1706611280235" duration="2747000" />
+      <workItem from="1706627157407" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="chore: init dispose-root&#10;chore: update boilerplate&#10;chore: remove koishi sources">
       <option name="closed" value="true" />

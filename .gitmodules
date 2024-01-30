@@ -4,9 +4,3 @@
 [submodule "external/expose-ctx"]
 	path = external/expose-ctx
 	url = https://github.com/CyanChanges/koishi-plugin-expose-ctx.git
-[submodule "external/koishi"]
-	path = external/koishi
-	url = https://github.com/CyanChanges/koishi.git
-[submodule "external/webui"]
-	path = external/webui
-	url = https://github.com/CyanChanges/webui.git
