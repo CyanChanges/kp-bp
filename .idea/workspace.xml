@@ -4,7 +4,60 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: init new bp" />
+    <list default="true" id="1ffaa66b-b780-4984-b3d8-cb0d7cf1e4b5" name="更改" comment="chore: migrate">
+      <change afterPath="$PROJECT_DIR$/external/everything/client/everything-page.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/everything/src/everything.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/external/everything/src/notifier.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.yarnrc.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.yarnrc.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/dispose-root" beforeDir="false" afterPath="$PROJECT_DIR$/external/dispose-root" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/dispose-root/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/external/dispose-root/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/dispose-root/src/disposer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/external/dispose-root/src/disposer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/everything/client/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/external/everything/client/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/everything/client/page.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/everything/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/external/everything/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/everything/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/external/everything/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/expose-ctx" beforeDir="false" afterPath="$PROJECT_DIR$/external/expose-ctx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/expose-ctx/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/external/expose-ctx/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/client/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/client/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/client/result.vue" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/client/result.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/browser/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/browser/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/node/checker.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/node/checker.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/node/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/node/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/node/result.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/node/result.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/node/utils.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/node/utils.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/src/shared/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/src/shared/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/sus-code.js" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/sus-code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/koishi-env/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/koishi-env/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/.npmignore" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/.npmignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/client/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/client/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/client/page.vue" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/client/page.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/client/smile.vue" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/client/smile.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/client/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/src/browser/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/src/browser/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/src/node/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/src/node/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/src/shared/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/src/shared/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/src/youare.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/src/youare.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/youareanidiot/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/stashed/youareanidiot/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/koishi.yml" beforeDir="false" afterPath="$PROJECT_DIR$/koishi.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,9 +87,12 @@
         <entry key="$PROJECT_DIR$/external/random-source-selector" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/external/webui" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/external/everything" />
     <option name="RESET_MODE" value="SOFT" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/node_modules/@koishijs/plugin-market/src/node/installer.ts" root0="SKIP_INSPECTION" />
   </component>
   <component name="LLMProjectSettings">
     <option name="turned_on" value="false" />
@@ -59,20 +115,20 @@
     "Node.js.thmr.mjs.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "90bf8792",
+    "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "21.6.1",
     "javascript.nodejs.core.library.typings.version": "20.11.9",
-    "last_opened_file_path": "/sdcard/Projects/WebstormProjects/koishi-bp/external",
+    "last_opened_file_path": "/sdcard/Projects/WebstormProjects/kp-bp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "yarn",
-    "npm.dev.executor": "Debug",
+    "npm.dev.executor": "Run",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "ts.external.directory.path": "/sdcard/Projects/WebstormProjects/koishi-bp/node_modules/typescript/lib",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "ts.external.directory.path": "/sdcard/Projects/WebstormProjects/kp-bp/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -90,11 +146,11 @@
       <recent name="$PROJECT_DIR$/external/youareanidiot/src/node" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stashed" />
       <recent name="$PROJECT_DIR$/tmp" />
       <recent name="$PROJECT_DIR$/external/expose-ctx/client/locales" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$/external/youareanidiot/src" />
-      <recent name="$PROJECT_DIR$/external" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -157,6 +213,9 @@
       <workItem from="1706595100180" duration="876000" />
       <workItem from="1706611280235" duration="2747000" />
       <workItem from="1706627157407" duration="12000" />
+      <workItem from="1706627252392" duration="1201000" />
+      <workItem from="1706628540505" duration="3347000" />
+      <workItem from="1706661579345" duration="6466000" />
     </task>
     <task id="LOCAL-00001" summary="chore: init dispose-root&#10;chore: update boilerplate&#10;chore: remove koishi sources">
       <option name="closed" value="true" />
@@ -302,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706613832207</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="chore: forked bp for plugin development using production koishi* versions">
+      <option name="closed" value="true" />
+      <created>1706627334943</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1706627334943</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +422,8 @@
     <MESSAGE value="chore: bump versions" />
     <MESSAGE value="chore: init new bp" />
     <MESSAGE value="chore: init new bp" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: init new bp" />
+    <MESSAGE value="chore: forked bp for plugin development using production koishi* versions" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: forked bp for plugin development using production koishi* versions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -400,6 +468,24 @@
           <url>file://$PROJECT_DIR$/node_modules/@satorijs/adapter-discord/src/message.ts</url>
           <line>52</line>
           <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file:///storage/emulated/0/Projects/WebstormProjects/kp-bp/external/everything/src/notifier.tsx</url>
+          <line>21</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/external/everything/src/everything.ts</url>
+          <line>64</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/external/everything/client/everything-page.vue</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="80" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

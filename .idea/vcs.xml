@@ -3,8 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/dispose-root" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/everything" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/expose-ctx" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/external/koishi" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/external/webui" vcs="Git" />
   </component>
 </project>
